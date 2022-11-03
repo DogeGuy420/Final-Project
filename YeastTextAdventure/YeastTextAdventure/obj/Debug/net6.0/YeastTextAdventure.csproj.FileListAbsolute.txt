@@ -1,0 +1,15 @@
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\bin\Debug\net6.0\YeastTextAdventure.exe
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\bin\Debug\net6.0\YeastTextAdventure.deps.json
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\bin\Debug\net6.0\YeastTextAdventure.runtimeconfig.json
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\bin\Debug\net6.0\YeastTextAdventure.dll
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\bin\Debug\net6.0\YeastTextAdventure.pdb
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\YeastTextAdventure.csproj.AssemblyReference.cache
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\YeastTextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\YeastTextAdventure.AssemblyInfoInputs.cache
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\YeastTextAdventure.AssemblyInfo.cs
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\YeastTextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\YeastTextAdventure.dll
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\refint\YeastTextAdventure.dll
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\YeastTextAdventure.pdb
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\YeastTextAdventure.genruntimeconfig.cache
+C:\Users\jovanluk\Downloads\Luka\Intro-to-programming-luka\SecretYeast\YeastTextAdventure\YeastTextAdventure\obj\Debug\net6.0\ref\YeastTextAdventure.dll
